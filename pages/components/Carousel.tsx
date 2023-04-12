@@ -16,8 +16,8 @@ export default function CarouselComponent() {
           </video>
         </div>
         <Carousel.Caption className={style.carousel_caption}>
-          <h1>Experience Bali's beauty with Batur Sunrise trekking & 4WD Jeep tours</h1>
-          <p>Explore the island's stunning landscapes on foot and on wheels, and witness the breathtaking beauty of a sunrise over the volcano's crater. Book now and create unforgettable memories with us!</p>
+          <h1>Experience Bali&apos;s beauty with Batur Sunrise trekking & 4WD Jeep tours</h1>
+          <p>Explore the island&apos;s stunning landscapes on foot and on wheels, and witness the breathtaking beauty of a sunrise over the volcano&apos;s crater. Book now and create unforgettable memories with us!</p>
         </Carousel.Caption>
       </Carousel.Item>
       {/* <Carousel.Item>

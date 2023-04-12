@@ -15,6 +15,7 @@ import {
 } from "@fortawesome/free-solid-svg-icons";
 import Link from 'next/link';
 import Contact from './components/Contact';
+import Image from 'next/image';
 
 const Home = (initialData) => {
   const { t } = useTranslation('common');
@@ -48,12 +49,16 @@ const Home = (initialData) => {
               <div className='pb-4'>
                 <Masonry columnsCount={2} gutter={"0.6rem"}>
                   {images.map((image, index) => (
-                    <img key={index} src={image} />
+                    <Image key={index} src={image} width={423} height={234} alt={`Image on index ${index}`} />
                   ))}
                 </Masonry>
               </div>
               <p>{t('about_trekking.batur').substring(0, 400)} ...</p>
-              <p><a href='/batur' className='btn btn-outline-primary btn-sm'>{t('read_more')}</a></p>
+              <p>
+                <Link href={'/batur'} >
+                  <a className='btn btn-outline-primary btn-sm'>{t('read_more')}</a>
+                </Link>
+              </p>
             </div>
           </div>
         </div>
