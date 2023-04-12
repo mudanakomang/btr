@@ -23,6 +23,7 @@
      <div className="row justify-content-center container_bg2">
        <div className="col-lg-6 col-sm-12 col-md-8 pb-4 my-auto">
             <h3 className="pb-3">TOUR INCLUSION</h3>
+            <hr />
             <ul style={{ listStyleType: 'none', paddingLeft:'0' }}>
                 <li className="fw-bold">✓ Private experienced English speaking driver and local trekking guides.</li>
                 <li className="fw-bold"> ✓ Entrance ticket to Mount Batur area and government of Bali.</li>
@@ -46,6 +47,7 @@
     <div className="row justify-content-center ">
         <div className="col-lg-6 col-sm-12 col-md-8 pb-4 my-auto">
             <h3 className="pb-3">SHOULD YOU BRING & WEAR</h3>
+            <hr />
             <ul style={{ listStyleType: 'none', paddingLeft:'0' }}>
                 <li className="fw-bold">✓ Hiking shoes and Jacket</li>
                 <li className="fw-bold">✓ Long pants and Camera</li>

@@ -22,7 +22,8 @@
     </div>
      <div className="row justify-content-center container_bg2">
        <div className="col-lg-6 col-sm-12 col-md-8 pb-4 my-auto">
-            <h3 className="pb-3">TOUR INCLUSION</h3>
+            <h3 className="pt-5">TOUR INCLUSION</h3>
+            <hr />
             <ul style={{ listStyleType: 'none', paddingLeft:'0' }}>
                 <li className="fw-bold">✓ Private experienced English speaking driver and local trekking guides.</li>
                 <li className="fw-bold"> ✓ Entrance ticket to Mount Batur area and government of Bali.</li>
@@ -45,7 +46,8 @@
     </div>
     <div className="row justify-content-center ">
         <div className="col-lg-6 col-sm-12 col-md-8 pb-4 my-auto">
-            <h3 className="pb-3">SHOULD YOU BRING & WEAR</h3>
+            <h3 className="pt-5">SHOULD YOU BRING & WEAR</h3>
+            <hr />
             <ul style={{ listStyleType: 'none', paddingLeft:'0' }}>
                 <li className="fw-bold">✓ Hiking shoes and Jacket</li>
                 <li className="fw-bold">✓ Long pants and Camera</li>
@@ -56,7 +58,8 @@
     </div>
     <div className="row justify-content-center ">
         <div className="col-lg-6 col-sm-12 col-md-8 pb-4 my-auto">
-            <h3 className="pb-3">ACTIVITY DETAILS</h3>
+            <h3 className="pt-5">ACTIVITY DETAILS</h3>
+            <hr />
             <ul style={{ listStyleType: 'none', paddingLeft:'0' }}>
                 <li className="fw-bold">Distance: 9 km in total</li>
                 <li className="fw-bold">Duration: 6 hours in total</li>
@@ -66,7 +69,8 @@
     </div>
     <div className="row justify-content-center container_bg">
         <div className="col-lg-6 col-sm-12 col-md-8 pb-4 my-auto">
-            <h3 className="pb-3">ITINERARY</h3>
+            <h3 className="pt-5">ITINERARY</h3>
+            <hr />
             <ul style={{ listStyleType: 'none', paddingLeft:'0' }}>
                 <li className="fw-bold pb-2">01.30 an – 02.00 am: Pick up at your villa/ hotel /guest house or AirBnB all around Bali and on the way stop at our coffe shoop for breakfast(banana pancake) with coffe or tea</li>
                 <li className="fw-bold pb-2">03.45 am – Reaching the starting point and then introduction to the guide.</li>
@@ -80,7 +84,8 @@
     </div>
     <div className="row justify-content-center ">
         <div className="col-lg-6 col-sm-12 col-md-8 pb-4 my-auto">
-            <h3 className="pb-3">PICK UP TIME</h3>
+            <h3 className="pt-5">PICK UP TIME</h3>
+            <hr />
             <ul style={{ listStyleType: 'none', paddingLeft:'0' }}>
                 <li className="fw-bold pb-2">Seminyak / Kuta - 1.30 am</li>
                 <li className="fw-bold pb-2">Nusa Dua / Jimbaran - 01.15 am</li>
@@ -91,7 +96,8 @@
     </div>
     <div className="row justify-content-center ">
         <div className="col-lg-6 col-sm-12 col-md-8 pb-4 my-auto">
-            <h3 className="pb-3">TOUR PRICE</h3>
+            <h3 className="pt-5">TOUR PRICE</h3>
+            <hr />
             <div className="row">
                 <div className="col-lg-6">
                     <h4>Ubud Area</h4>

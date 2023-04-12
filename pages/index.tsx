@@ -34,7 +34,7 @@ const Home = (initialData) => {
         <div className="col-lg-4 col-sm-12 col-md-6 pb-4 my-auto" >
           <h2 className='text-center'>{t('welcome')}</h2>
         </div>
-        <div className="col-lg-4 col-sm-12 col-md-6 pb-5">
+        <div className="col-lg-6 col-sm-12 col-md-6 pb-5">
           {splitStringByNewLine(t('home_description'), 'h4')}
         </div>
 

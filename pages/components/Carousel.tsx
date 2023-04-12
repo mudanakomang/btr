@@ -10,14 +10,14 @@ export default function CarouselComponent() {
           alt="First slide"
           height={600}
         /> */}
-         <div className={style.video_container}>
-         <video playsInline autoPlay muted loop className={style.video}>
+        <div className={style.video_container}>
+          <video playsInline autoPlay muted loop className={style.video}>
             <source src="/video/video-bg.mp4" type="video/mp4" />
           </video>
-         </div>
+        </div>
         <Carousel.Caption className={style.carousel_caption}>
-          <h1>First slide label</h1>
-          <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
+          <h1>Experience Bali's beauty with Batur Sunrise trekking & 4WD Jeep tours</h1>
+          <p>Explore the island's stunning landscapes on foot and on wheels, and witness the breathtaking beauty of a sunrise over the volcano's crater. Book now and create unforgettable memories with us!</p>
         </Carousel.Caption>
       </Carousel.Item>
       {/* <Carousel.Item>

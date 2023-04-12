@@ -32,7 +32,6 @@ export default function LocaleSwitcher() {
 
 export const getStaticProps = async ({ locale }) => {
 
-    console.log(locale);
     return {
         props: { locale }
     }
