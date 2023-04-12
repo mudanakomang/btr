@@ -1,0 +1,31 @@
+{
+    "welcome" : "Selamat datang di Trisula Sunrise Trekking",
+    "contact" : "Kontak",
+    "about" : "Tentang",
+    "read_more": "Selengkapnya",
+    "home_description": "Kami telah berpengalaman menyelenggarakan kegiatan tour bagi wisatawan domestik dan mancanegara di Bali.\nSekarang kami berfokus untuk melayani wisata trekking ke Gunung Batur.\nDengan pengalaman dan keahlian kami, kami akan melengkapi aktivitas wisata Anda menjadi momen yang tak terlupakan.\nBersiaplah untuk menikmati keindahan alam Bali dengan cara yang berbeda.\nHubungi kami kapan saja, kami akan dengan senang hati melayani Anda",
+    "reason_title": "Mengapa Anda harus menggunakan layanan kami?",
+    "reason_1_title": "Simpel & Cepat",
+    "reason_1_desc": "Kami tidak akan mengambil banyak waktu Anda yang sangat singkat di Bali. Semua proses booking dilakukan dengan sederhana dan cepat",
+    "reason_2_title": "Harga Bersaing",
+    "reason_2_desc": "Kami memberikan harga terbaik dan kompetitif. Dan yang paling penting, tidak ada biaya tambahan. Semua biaya telah disebutkan pada saat pemesanan",
+    "reason_3_title": "Armada yang Prima",
+    "reason_3_desc": "Kami selalu memastikan kendaraan kami dalam kondisi baik untuk menghindari kemungkinan masalah selama perjalanan",
+    "reason_4_title": "Punya rencana lain?",
+    "reason_4_desc": "Jika adan merencanakan perjalana selanjutnya, silahkan diskusikan dengan kami. Kami akan dengan senang hati memberikan informasi dan rekomandasi tempat yang harus Anda kunjungi",
+    "about_trekking": {
+        "title": "Sekilas tentang trekking di Bali",
+        "head": "Tentang Gunung Batur",
+        "agung_title":"Gunung Agung",
+        "agung": "Gunung Agung terletak di bagian timur pulau Bali. Gunung ini adalah yang tertinggi di Bali dengan ketinggian 3.142 m di atas permukaan laut. Meletus terakhir kali pada tahun 2017-2018. Ada dua jalur pendakian populer. Besakih, kurang lebih 6 jam perjalanan menuju puncak. Sedangkang dari Pasar Agung, trekking membutuhkan waktu 4 jam.\nUmat ​​Hindu Bali percaya bahwa Gunung Agung adalah tempat bersemayamnya para dewa. Sehingga para pendaki tidak boleh lengah dan harus mengikuti petunjuk pemandu setempat. Karena daerah ini dianggap keramat.\nMendaki Gunung Agung, kita akan melewati vegetasi yang agak lebat mulai dari titik awal. Kemudian akan menipis saat mendekati puncak. Sebelum mencapai puncak, kita akan menemui trek berbatu dan pemandangan menakjubkan mulai terlihat.",
+        "view":"View & Wisata Sekitar",
+        "agung_nearby": "Ketika mencapai puncak gunung Agung, pemandangan menakjubkan akan terlihat. Gunung Rinjani, Lombok akan terlihat seiring matahari terbit. Pada sisi utara, Danau Batur dengan Gunung Batur di tengah-tengah akan terlihat seperti mangkok kecil. Di sebelah barat akan terlihat bayangan Gunung Agung yang terlihat seperti segitiga sempurna. Di selatan terlihat kepulauan Nusa Penida dan Pantai Sanur. Tempat wisata menarik di sekitar Gunung Agung yaitu Pura Besakih, Pura Pasar Agung dan Taman Bunga Edelweiss",
+        "batur_title":"Gunung Batur",
+        "batur": "Gunung Batur adalah gunung berapi aktif yang terletak di Kintamani, Bangli. Gunung Batur merupakan kompleks kaldera raksasa yang terbentuk puluhan ribu tahun yang lalu. Gunung ini memiliki ketinggian 1717 meter di atas permukaan laut.\nGunung Batur tercatat meletus puluhan kali dan yang paling besar adalah pada tahun 1926, yang memaksa sebagian besar penduduk pindah dari area tersebut. Aliran lava bekas letusan terakhir masih jelas terlihat. Lava beku ini berwarna hitam, kontras dengan aliran lava pada letusan sebelumnya. \nSetidaknya ada 4 jalur pendakian populer di Gunung Batur, yaitu Pasar Agung, Toya Bungkah, Serongga dan Culali. Durasi rata-rata untuk mencapai puncak Gunung Batur adalah 2,5 sampai 3 jam",
+        "batur_nearby": "Vegetasi di Gunung Batur didominasi oleh rumput dengan sedikit pohon. Trek berupa bebatuan dan dan berpasir. Ketika mencapai puncak, kita dapat melihat matahari terbit. Sekeliling gunung akan terlihat dinding kaldera yang melingkari. Pada bagian selatan-tenggara adalah Danau Batur. Selain keindahan kompleks kaldera yang unik ini, pada pinggir Danau Batur terdapat sebuah desa tua bernama Trunyan. Pemakanman di desa ini sangant unik. Mayat tidak dikubur, namun hanya ditaruh di atas tanah"
+    },
+    "contact_us": "Hubungi Segera!",
+    "contact_us_info": "Untuk Informasi & Booking",
+    "trekking_package": "Paket Trekking"
+    
+}

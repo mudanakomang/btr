@@ -1,0 +1,7 @@
+.nav_center {
+    flex-wrap: nowrap;
+    justify-content: center;
+    padding: 3px;
+    background-color:#1c2126 !important;
+    color: #fff;
+}
